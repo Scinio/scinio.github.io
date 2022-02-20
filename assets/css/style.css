@@ -275,10 +275,11 @@ p {
 }
 
 .btn-clean {
-  border-color: #F5F5F5;
-  color: #F5F5F5;
-  text-transform: uppercase;
-  letter-spacing: 0;
+    border-color: #F5F5F5;
+    color: #F5F5F5;
+    background-color: #737272;
+    text-transform: uppercase;
+    letter-spacing: 0;
 }
 
 .btn-clean:hover, .btn-clean:focus, .btn-clean:active {
@@ -590,7 +591,7 @@ p.hero {
 }
 
 .hero-btn {
-  margin-top: 50px;
+    margin-top: 100px;
 }
 
 ul.caption-slides {
