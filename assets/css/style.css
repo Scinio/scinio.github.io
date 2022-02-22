@@ -1551,9 +1551,10 @@ h4.post-title {
 }
 
 .form-group .form-control.br-b {
-  border-top: 0;
-  border-left: 0;
-  border-right: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    background-color: #737272;
 }
 
 textarea.form-control {
@@ -1561,9 +1562,10 @@ textarea.form-control {
 }
 
 #contactform .form-group #submit {
-  display: block;
-  width: 100%;
-  margin-top: 10px;
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    background-color: #737272;
 }
 
 .contact-info {
@@ -2386,8 +2388,9 @@ label {
 }
 
 .input-group .form-control {
-  border: 1px solid #dcdcdc;
-  padding: 8px 12px;
+    border: 1px solid #dcdcdc;
+    padding: 8px 12px;
+    background-color: #737272;
 }
 
 .btn-search {
